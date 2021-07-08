@@ -1,0 +1,27 @@
+---
+title: "Création d'un outil sur ligne."
+subtitle: "Rapport de stage technicien Bachelor 2ème année."
+author: ["Julien HUYGHE"]
+date: "2021-07-08"
+subject: "Rapport de stage"
+keywords: ["Stage", "Technicien", "Bachelor 2A", "ENSAM", "Ondal France", "Mibelle Group"]
+lang: "fr"
+footer-center: "Propriété de Ondal France"
+book: true
+titlepage: true
+mainfont: AvenirNext
+mainfontoptions:
+  - Path=assets/fonts/
+  - UprightFont=*-Regular.ttf
+  - ItalicFont=*-Italic.ttf
+  - BoldFont=*-DemiBold.ttf
+  - BoldItalicFont=*-DemiBoldItalic.ttf
+fontsize: 11pt
+sansfont: Gilroy
+sansfontoptions:
+  - Path=assets/fonts/
+  - UprightFont=*-Regular.ttf
+  - ItalicFont=*-RegularItalic.ttf
+  - BoldFont=*-Bold.ttf
+  - BoldItalicFont=*-BoldItalic.ttf
+...
