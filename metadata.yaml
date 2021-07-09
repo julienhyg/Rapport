@@ -1,14 +1,21 @@
 ---
-title: "Création d'un outil sur ligne."
+title: "Création d'un outil de support informatique sur ligne."
 subtitle: "Rapport de stage technicien Bachelor 2ème année."
 author: ["Julien HUYGHE"]
-date: "2021-07-08"
-subject: "Rapport de stage"
+date: "2021-07-09"
 keywords: ["Stage", "Technicien", "Bachelor 2A", "ENSAM", "Ondal France", "Mibelle Group"]
 lang: "fr"
-footer-center: "Propriété de Ondal France"
-book: true
+header-right: "Propriété de Ondal France"
+book: false
 titlepage: true
+titlepage-text-color: EEF2FF
+titlepage-rule-height: 0
+titlepage-background: "assets/templates/titlepage.pdf"
+toc: true
+toc-own-page: true
+lof: true
+lot: true
+table-use-row-colors: true
 mainfont: AvenirNext
 mainfontoptions:
   - Path=assets/fonts/
