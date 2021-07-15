@@ -8,7 +8,7 @@ lang: "fr"
 header-right: "Propriété de Ondal France"
 book: false
 titlepage: true
-titlepage-text-color: EEF2FF
+titlepage-text-color: EEEEEE
 titlepage-rule-height: 0
 titlepage-background: "assets/templates/titlepage.pdf"
 toc: true
