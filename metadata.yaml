@@ -6,7 +6,7 @@ date: "Juillet 2021"
 keywords: ["Stage", "Technicien", "Bachelor 2A", "ENSAM", "Ondal France", "Mibelle Group"]
 lang: "fr"
 header-right: "Propriété de Ondal France"
-book: false
+book: true
 titlepage: true
 titlepage-text-color: EEEEEE
 titlepage-rule-height: 0
