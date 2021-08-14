@@ -2,7 +2,7 @@
 title: "Création d'un outil de support informatique sur ligne."
 subtitle: "Rapport de stage technicien Bachelor 2ème année chez Ondal France - Mibelle Group."
 author: ["Julien HUYGHE"]
-date: "Juillet 2021"
+date: "26 avril - 16 juillet 2021"
 keywords: ["Stage", "Technicien", "Bachelor 2A", "ENSAM", "Ondal France", "Mibelle Group"]
 lang: "fr"
 header-right: "Propriété de Ondal France"
@@ -21,14 +21,14 @@ mainfontoptions:
   - Path=assets/fonts/
   - UprightFont=*-Regular.ttf
   - ItalicFont=*-Italic.ttf
-  - BoldFont=*-DemiBold.ttf
-  - BoldItalicFont=*-DemiBoldItalic.ttf
+  - BoldFont=*-Medium-06.ttf
+  - BoldItalicFont=*-MediumItalic-07.ttf
 fontsize: 11pt
 sansfont: Gilroy
 sansfontoptions:
   - Path=assets/fonts/
   - UprightFont=*-Regular.ttf
   - ItalicFont=*-RegularItalic.ttf
-  - BoldFont=*-Bold.ttf
-  - BoldItalicFont=*-BoldItalic.ttf
+  - BoldFont=*-SemiBold.ttf
+  - BoldItalicFont=*-SemiBoldItalic.ttf
 ...
