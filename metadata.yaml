@@ -31,4 +31,11 @@ sansfontoptions:
   - ItalicFont=*-RegularItalic.ttf
   - BoldFont=*-SemiBold.ttf
   - BoldItalicFont=*-SemiBoldItalic.ttf
+monofont: Gilroy
+monofontoptions:
+  - Path=assets/fonts/
+  - UprightFont=*-Regular.ttf
+  - ItalicFont=*-RegularItalic.ttf
+  - BoldFont=*-SemiBold.ttf
+  - BoldItalicFont=*-SemiBoldItalic.ttf
 ...
